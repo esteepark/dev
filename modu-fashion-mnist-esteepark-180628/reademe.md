@@ -15,6 +15,6 @@
     * Jupyter 4.4
 
 > Test Accuracy 
-  * 0.95
+  * 0.92
   * np.random.seed(10)
 
