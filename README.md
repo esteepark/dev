@@ -4,5 +4,6 @@ One is as though nothing is a miracle.
 The other is as though everything is.
 ```
 
-#######7
-######6
+####### 7
+
+###### 6
